@@ -1,5 +1,6 @@
 # php-php-mailer
 Enter your mail account details in config.php file
+
   define("From_Email_Add","Enter Email here");
 
   define("From_Email_Pass","Enter Password here");
