@@ -1,4 +1,16 @@
 # php-php-mailer
+
+Links that fix the problem (you must be logged into google account):
+
+https://security.google.com/settings/security/activity?hl=en&pli=1
+
+https://www.google.com/settings/u/0/security/lesssecureapps
+
+https://accounts.google.com/b/0/DisplayUnlockCaptcha
+
+you have to allow these steps.
+
+
 Enter your mail account details in config.php file
 
   define("From_Email_Add","Enter Email here");
